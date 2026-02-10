@@ -45,8 +45,9 @@
 ## 5. 분석 결과 시각화
 | 성심당 방문객 이동 경로 분석 | 관광지 테마별 군집화 결과 | 추천 시스템 구현 예시 |
 | :---: | :---: | :---: |
-| ![heatmap_animation_-ezgif com-crop](https://github.com/user-attachments/assets/09754562-6497-4bb3-a7b7-f1758821c2bc) | ![Clustering]([이미지_경로]) | ![System]([이미지_경로]) |
+| <img src="" width="300" /> | ![Clustering]([이미지_경로]) | ![System]([이미지_경로]) |
 | *유동인구 기반 유입/유출 흐름* | *5개 테마별 관광지 분포* | *사용자 맞춤형 추천 결과 화면* |
+![population heatmap](https://github.com/user-attachments/assets/859024f5-d2c9-4766-8509-7c136b3d29f1)
 
 ---
 
